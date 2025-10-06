@@ -50,17 +50,26 @@ Setelah terinstal, ikon ekstensi sering tersembunyi. Ikuti langkah ini untuk mem
 
 1.  Klik **ikon *puzzle piece*** (potongan *puzzle*) di sudut kanan atas Chrome. Ini adalah **Menu Ekstensi**.
 2.  Cari ekstensi **Authenticator** di dalam daftar yang muncul.
-3.  Klik **ikon pin** (berbentuk paku payung) di samping nama **Authenticator**.
+3.  Klik **ikon pin** (berbentuk paku payung) di samping nama **Authenticator** (ditunjukkan oleh panah merah).
 
-**Hasil:** Ikon Authenticator sekarang akan selalu terlihat di *toolbar* Chrome Anda, siap untuk diakses.
+![Klik ikon pin untuk menyematkan ekstensi Authenticator](asset/tutor_6.png)
+
+### Hasil Langkah 5
+
+Ikon Authenticator sekarang akan selalu terlihat di *toolbar* Chrome Anda, siap untuk diakses.
+
+![Authenticator sudah tersemat dan siap dipakai](asset/tutor_7.png)
 
 ---
 
 ## Langkah 6: Konversi Tutorial ke PDF
 
-Karena Anda telah menyiapkan semua file Markdown (`.md`) dan gambar (`.png`) di GitHub, ini adalah cara termudah untuk menghasilkan dokumen PDF yang rapi:
+Karena Anda sudah berhasil mengunggah file Markdown (`.md`) dan semua gambar (`.png`) ke **GitHub**, ini adalah cara termudah untuk menghasilkan dokumen PDF yang rapi:
 
 1.  **Buka File di GitHub:** Buka repositori Anda, lalu klik pada file **`tutorial_authenticator.md`**. GitHub akan merender teks dan gambar Anda menjadi tampilan halaman web yang rapi.
 2.  **Cetak ke PDF:** Tekan kombinasi tombol **`Ctrl + P`** (atau `Cmd + P` di macOS) pada *browser* Anda.
 3.  **Simpan:** Di jendela *Print* (Cetak), ubah *Destination* (Tujuan) menjadi **"Save as PDF"** (Simpan sebagai PDF).
+
+![Gambar yang menunjukkan jendela Print/Cetak dengan opsi Save as PDF](save_as_pdf_step.png)
+
 4.  Klik **Save** (Simpan) untuk mendapatkan file PDF akhir yang siap dikumpulkan ke dosen Anda.
