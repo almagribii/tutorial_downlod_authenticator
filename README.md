@@ -20,7 +20,7 @@ Ekstensi **Authenticator** adalah alat yang wajib dimiliki untuk menghasilkan ko
 
 > **Catatan:** Ada dua gambar yang menunjukkan jalur ini. Gunakan yang paling jelas.
 
-![Arahkan ke Extensions lalu klik Visit Chrome Web Store](tutor_3.png)
+![Arahkan ke Extensions lalu klik Visit Chrome Web Store](asset/tutor_3.png)
 
 ---
 
