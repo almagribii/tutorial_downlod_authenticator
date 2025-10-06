@@ -9,7 +9,7 @@ Ekstensi **Authenticator** adalah alat yang wajib dimiliki untuk menghasilkan ko
 1.  Buka *browser* Google Chrome Anda.
 2.  Klik **ikon tiga titik** (menu More) di pojok kanan atas layar. (Ikon ini ditunjukkan oleh panah merah).
 
-![Klik ikon tiga titik di pojok kanan atas](tutor_1.png)
+![Klik ikon tiga titik di pojok kanan atas](asset/tutor_1.png)
 
 ---
 
@@ -30,7 +30,7 @@ Ekstensi **Authenticator** adalah alat yang wajib dimiliki untuk menghasilkan ko
 2.  Ketik **`Authenticator`** dan tekan Enter.
 3.  Klik pada hasil ekstensi **Authenticator** (biasanya yang pertama dan terverifikasi).
 
-![Ketik 'Authenticator' di kolom pencarian dan klik hasilnya](tuto_4.png)
+![Ketik 'Authenticator' di kolom pencarian dan klik hasilnya](asset/tutor_4.png)
 
 ---
 
@@ -40,7 +40,7 @@ Ekstensi **Authenticator** adalah alat yang wajib dimiliki untuk menghasilkan ko
 2.  Klik tombol biru besar **`Add to Chrome`** (Tambahkan ke Chrome) di pojok kanan atas.
 3.  Ikuti dialog konfirmasi yang muncul (klik "Tambahkan ekstensi").
 
-![Klik tombol Add to Chrome](tutor_5.png)
+![Klik tombol Add to Chrome](asset/tutor_5.png)
 
 ---
 
