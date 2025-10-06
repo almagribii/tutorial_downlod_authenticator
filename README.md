@@ -62,14 +62,10 @@ Ikon Authenticator sekarang akan selalu terlihat di *toolbar* Chrome Anda, siap 
 
 ---
 
-## Langkah 6: Konversi Tutorial ke PDF
+## Langkah 6: Ekstensi Siap Digunakan
 
-Karena Anda sudah berhasil mengunggah file Markdown (`.md`) dan semua gambar (`.png`) ke **GitHub**, ini adalah cara termudah untuk menghasilkan dokumen PDF yang rapi:
+Setelah di-*pin*, ikon Authenticator akan muncul secara permanen di *toolbar*. Sekarang ekstensi sudah **siap digunakan** untuk menambahkan akun *Two-Factor Authentication* (2FA) pertama Anda.
 
-1.  **Buka File di GitHub:** Buka repositori Anda, lalu klik pada file **`tutorial_authenticator.md`**. GitHub akan merender teks dan gambar Anda menjadi tampilan halaman web yang rapi.
-2.  **Cetak ke PDF:** Tekan kombinasi tombol **`Ctrl + P`** (atau `Cmd + P` di macOS) pada *browser* Anda.
-3.  **Simpan:** Di jendela *Print* (Cetak), ubah *Destination* (Tujuan) menjadi **"Save as PDF"** (Simpan sebagai PDF).
+* Untuk mulai menambahkan akun, cukup klik ikon **Authenticator** yang sudah tersemat di *toolbar* Anda.
 
-![Gambar yang menunjukkan jendela Print/Cetak dengan opsi Save as PDF](save_as_pdf_step.png)
-
-4.  Klik **Save** (Simpan) untuk mendapatkan file PDF akhir yang siap dikumpulkan ke dosen Anda.
+---
