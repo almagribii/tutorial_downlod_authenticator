@@ -44,6 +44,23 @@ Ekstensi **Authenticator** adalah alat yang wajib dimiliki untuk menghasilkan ko
 
 ---
 
-## Langkah 5: Selesai!
+## Langkah 5: Pin (Sematkan) Ekstensi untuk Akses Cepat
 
-Ekstensi Authenticator sekarang sudah terpasang dan siap digunakan. Anda dapat menemukan ikonnya di *toolbar* Chrome (biasanya berupa ikon *puzzle piece* atau ikon kunci gembok berwarna biru) untuk mulai menambahkan akun 2FA Anda.
+Setelah terinstal, ikon ekstensi sering tersembunyi. Ikuti langkah ini untuk membuatnya muncul permanen di *toolbar* Chrome:
+
+1.  Klik **ikon *puzzle piece*** (potongan *puzzle*) di sudut kanan atas Chrome. Ini adalah **Menu Ekstensi**.
+2.  Cari ekstensi **Authenticator** di dalam daftar yang muncul.
+3.  Klik **ikon pin** (berbentuk paku payung) di samping nama **Authenticator**.
+
+**Hasil:** Ikon Authenticator sekarang akan selalu terlihat di *toolbar* Chrome Anda, siap untuk diakses.
+
+---
+
+## Langkah 6: Konversi Tutorial ke PDF
+
+Karena Anda telah menyiapkan semua file Markdown (`.md`) dan gambar (`.png`) di GitHub, ini adalah cara termudah untuk menghasilkan dokumen PDF yang rapi:
+
+1.  **Buka File di GitHub:** Buka repositori Anda, lalu klik pada file **`tutorial_authenticator.md`**. GitHub akan merender teks dan gambar Anda menjadi tampilan halaman web yang rapi.
+2.  **Cetak ke PDF:** Tekan kombinasi tombol **`Ctrl + P`** (atau `Cmd + P` di macOS) pada *browser* Anda.
+3.  **Simpan:** Di jendela *Print* (Cetak), ubah *Destination* (Tujuan) menjadi **"Save as PDF"** (Simpan sebagai PDF).
+4.  Klik **Save** (Simpan) untuk mendapatkan file PDF akhir yang siap dikumpulkan ke dosen Anda.
